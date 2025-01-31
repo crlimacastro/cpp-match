@@ -1,4 +1,4 @@
-# match cpp
+# cpp match
 
 A type matching function for ``std::variant``s with support for a variadic number of functions.
 
